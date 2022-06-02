@@ -1,0 +1,13 @@
+h1{
+    color: pink;
+    margin: 2rem;
+}
+
+p{
+    background-color: pink;
+    color: white;
+    border: .3rem solid palevioletred;
+    border-radius: 1rem;
+    padding: 5rem;
+    width: 50%;
+}
